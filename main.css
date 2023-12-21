@@ -1,0 +1,315 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  display: block;
+}
+
+.container {
+  width: 1220px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.site-head {
+  padding-top: 56px;
+  padding-bottom: 56px;
+}
+
+.site-header-logo {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 475px;
+}
+
+.site-header-nav {
+  display: inline-block;
+}
+
+.site-header-list {
+  margin: 0;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.site-header-item {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.list {
+  margin-right: 0;
+}
+
+.site-header-link {
+  text-decoration: none;
+  color: #1f1534;
+  font-size: 18px;
+}
+
+.hero {
+  padding-top: 30px;
+  padding-bottom: 187px;
+}
+
+
+.hero-wrapper {
+  display: inline-block;
+  margin-right: 131px;
+  vertical-align: middle;
+  width: 435px;
+}
+
+.hero-img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.hero-title {
+  margin: 0;
+  color: #000;
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+
+.hero-text {
+  margin: 0;
+  color: #7d7987;
+  font-size: 21px;
+  margin-bottom: 40px;
+}
+
+.hero-link {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 16px 37px 17px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 55px;
+  background: #458FF6;
+  text-decoration: none;
+}
+
+.intro-section {
+  padding-top: 100px;
+  padding-bottom: ;
+  : 113px;
+}
+
+.container {
+  width: 1220px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.intro-section-box {
+  margin: 0 auto;
+  width: 952px;
+}
+
+.intro-section-title {
+  margin: 0;
+  margin-bottom: 26px;
+  color: #000;
+  font-size: 36px;
+  text-align: center;
+}
+
+.intro-section-span {
+  display: block;
+  margin-bottom: 33px;
+  background-color: #000;
+  width: 56px;
+  height: 2px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.intro-section-text {
+  margin: 0;
+  color: #7D7987;
+  text-align: center;
+  font-size: 18px;
+}
+
+.list {
+  margin: 0;
+  list-style-type: none;
+
+}
+
+.item {
+  display: inline-block;
+  padding-right: 0;
+  padding-left: 0;
+  width: 375px;
+}
+
+.item-img {
+  margin: 0;
+  margin-top: 68px;
+  margin-bottom: 23px;
+  margin-left: 39px;
+}
+
+.item-title {
+  margin: 0;
+  margin-bottom: 2px;
+  margin-left: 41px;
+  font-size: 24px;
+  color: #000;
+}
+
+.item-text {
+  margin: 0;
+  margin-right: 59px;
+  margin-bottom: 48px;
+  margin-left: 41px;
+  color: #7D7987;
+  font-size: 16px;
+}
+
+.item-img-pharmacy {
+  margin: 0;
+  margin-top: 66px;
+  margin-bottom: 21px;
+  margin-left: 40px;
+}
+
+.item-title-pharmacy {
+  margin: 0;
+  ;
+  margin-bottom: 1px;
+  margin-left: 39px;
+  color: #000;
+  font-size: 24px;
+}
+
+.item-text-pharmacy {
+  margin: 0;
+  margin-right: 56px;
+  margin-bottom: 50px;
+  margin-left: 40px;
+  color: #7d7987;
+  font-size: 16px;
+}
+
+
+.item-img-consultation {
+  margin: 0;
+  margin-top: 61px;
+  margin-bottom: 25px;
+  margin-left: 51px;
+}
+
+.item-title-consultation {
+  margin: 0;
+  margin-bottom: 1px;
+  margin-left: 52px;
+  color: #000;
+  font-size: 24px;
+}
+
+
+.item-text-consultation {
+  margin: 0;
+  margin-right: 52px;
+  margin-bottom: 48px;
+  margin-left: 52px;
+  color: #7d7987;
+  font-size: 16px;
+}
+
+
+.item-img-details {
+  margin: 0;
+  margin-top: 47px;
+  margin-bottom: 26px;
+  margin-left: 42px;
+}
+
+.item-title-details {
+  margin: 0;
+  margin-bottom: 1px;
+  margin-left: 40px;
+  color: #000;
+  font-size: 24px;
+}
+
+.item-text-details {
+  margin: 0;
+  margin-right: 64px;
+  margin-bottom: 60px;
+  margin-left: 41px;
+  color: #7D7987;
+  font-size: 16px;
+}
+
+.item-img-emergency {
+  margin: 0;
+  margin-top: 62px;
+  margin-bottom: 38px;
+  margin-left: 47px;
+}
+
+.item-title-emergency {
+  margin: 0;
+  margin-bottom: 1px;
+  margin-left: 44px;
+  color: #000;
+  font-size: 24px;
+}
+
+.item-text-emergency {
+  margin: 0;
+  margin-right: 54px;
+  margin-bottom: 57px;
+  margin-left: 46px;
+  color: #7D7987;
+  font-size: 16px;
+}
+
+.item-img-tracking {
+  margin: 0;
+  margin-top: 56px;
+  margin-bottom: 21px;
+  margin-left: 41px;
+}
+
+.item-title-tracking {
+  margin: 0;
+  margin-bottom: 1px;
+  margin-left: 42px;
+  color: #000;
+  font-size: 24px;
+}
+
+.item-text-tracking {
+  margin: 0;
+  margin-right: 54px;
+  margin-bottom: 81px;
+  margin-left: 42px;
+  color: #7D7987;
+  font-size: 16px;
+}
+
+.intro-link {
+  display: block;
+  margin: 0 auto;
+  padding-top: 17px;
+  padding-left: 51px;
+  padding-bottom: 16px;
+  padding-right: 51px; 
+  color: #458ff6;
+  font-size: 18px;
+  border-radius: 55px;
+  border: 1.4px solid #458FF6;
+  width: 200px;
+  height: 56px;
+}
